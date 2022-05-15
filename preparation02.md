@@ -26,7 +26,7 @@ I'm currently pursuing my master's in Data Science and Analytics. I choose this 
 
 ### 📌 STA 518
 
-I took STA 518 to understand the basic and advanced concepts of R programming. As someone who wants to work in Data engineering, I believe R programming is a "golden standard" for statistical programming language in data science. Additionally, I think R programming is really loved in academics and industry. In my personal experience, I've seen that R programming is used to model complex data pipelines and design web applications for statistical visualizations. Still, I never had the chance to learn and apply it. I have very little knowledge in R programming, and I want to utilize this class to:
+I took STA 518 to understand the basic and advanced concepts of R programming. As someone who wants to work in Data engineering, I believe R programming is a "golden standard" for statistical programming language in data science. Additionally, I think R programming is really loved in academics and industry. In my personal experience, I've seen that R programming is used to model complex data pipelines, perform data analysis, generate reports and design web applications for statistical visualizations. Still, I never had the chance to learn and apply it. I have very little knowledge in R programming, and I want to utilize this class to:
 
 - Understand the basics of R syntax and data analysis.
 - Ingest and organize data from different sources such as raw data(text, HTML) and structured data(SQL, spreadsheet, NoSQL).
